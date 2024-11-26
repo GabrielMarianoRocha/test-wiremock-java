@@ -1,0 +1,5 @@
+com\example\wiremockapi\RestTemplateConfig.class
+com\example\wiremockapi\controller\ItemController.class
+com\example\wiremockapi\model\Item.class
+com\example\wiremockapi\WireMockApiApplication.class
+com\example\wiremockapi\service\ItemService.class
